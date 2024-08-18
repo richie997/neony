@@ -9,9 +9,9 @@ export default function Home() {
           Create invoices for your customers
         </h2>
         <p className="opacity-70 mb-4 text-sm md:text-base leading-loose">
-          Neony is an online invoicing software that helps you craft and
-          print professional invoices for your customers for free! Keep your
-          business and clients with one invoicing software.
+          Neony is an online invoicing software that helps you craft and print
+          professional invoices for your customers for free! Keep your business
+          and clients with one invoicing software.
         </p>
         <Link
           href="/dashboard"
